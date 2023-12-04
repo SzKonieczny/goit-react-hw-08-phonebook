@@ -35,9 +35,3 @@ export default function Home() {
     </HomeBox>
   );
 }
-
-{
-  /* <span role="img" aria-label="Greeting icon">
-  📱
-</span>; */
-}
