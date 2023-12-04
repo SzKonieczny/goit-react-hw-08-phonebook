@@ -12,7 +12,7 @@ import { RestrictedRoute } from './RestrictedRoute';
 import { MainContainer } from './app.styled';
 
 const HomePage = lazy(() => import('../page/Home/Home'));
-const RegisterPage = lazy(() => import('../page/Register/Register'));
+const RegisterPage = lazy(() => import('..//page/Redister/Register'));
 const LoginPage = lazy(() => import('../page/Login/Login'));
 const PhonePage = lazy(() => import('../page/PhoneBook/PhoneBook'));
 

@@ -2,7 +2,7 @@ import { useDispatch } from 'react-redux';
 
 import { logOut } from 'redux/auth/authOperations';
 import { useAuth } from 'hook';
-import { contactsApi } from 'redux/sliceContacts';
+import { contactsApi } from '..//..//redux/spliceContacts';
 
 import { UserBox, UserName } from './userMenu.styled';
 
